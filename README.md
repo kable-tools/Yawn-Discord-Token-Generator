@@ -21,7 +21,8 @@ Discord Joiner - (Each time you create a token it joins the invited server provi
 There are alot of FAKE Token Generators out there so be careful!
 Note, when buying this product be sure to add my discord: @kable#6663 to ensure you know when new updates come!
 
-adding soon: Proxless + Captcha Less!
+adding soon: 
+Proxless + Captcha Less!
 
 Active-Program:
 Auto Creates Tokens
