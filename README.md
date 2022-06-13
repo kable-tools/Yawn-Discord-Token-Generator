@@ -32,7 +32,7 @@ Joiner
 
 
 This is the **CHEAPEST** and **BEST** working token generator on discord right now!
-When buying from my sellix make sure that extract the file and run it! :)
+When buying from my sellix make sure that extract the file and run it!
 ```
 ### - 50% OFF RIGHT NOW! DON'T MISS OUT!
 
