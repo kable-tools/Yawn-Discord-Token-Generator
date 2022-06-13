@@ -1,0 +1,2 @@
+# Discord-Token-Generator---Yawn-
+YAWN Discord Account Generator!  Working with no bugs! Webhook Token Puller - (Each time you create a token it gets sent to the webhook you provide!) Discord Joiner - (Each time you create a token it joins the invited server provided!)  There are alot of FAKE Token Generators out there so be careful! Note, when buying this product be sure to add my discord: @kable#6663 to ensure you know when new updates come!
