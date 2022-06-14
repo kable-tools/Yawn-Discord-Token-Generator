@@ -34,6 +34,6 @@ Joiner
 This is the **CHEAPEST** and **BEST** working token generator on discord right now!
 When buying from my sellix make sure that extract the file and run it!
 ```
-### - 50% OFF RIGHT NOW! DON'T MISS OUT!
+### - 50% OFF RIGHT NOW! DON'T MISS OUT!!
 
 ![https://disc.sellix.io/](https://user-images.githubusercontent.com/107379981/173308698-221e3644-e3e1-4d72-bb8c-d61daef34d02.png)
